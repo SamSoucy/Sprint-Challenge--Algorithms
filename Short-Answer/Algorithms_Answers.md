@@ -4,9 +4,9 @@ Add your answers to the Algorithms exercises here.
 
 a) O(n)
 
-b) O(n^4) Because there are 4 nested loops.
+b) O(n) * O(n) * O(n) = O(n^3) 
 
-c) O(n) Because this is a recursive function.
+c) O(n)  this is a recursive function.
 
 ## Exercise II
 
